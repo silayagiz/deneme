@@ -1,3 +1,2 @@
 =EGE BURAYI DEĞİŞTİRDİ=
-=SILA DA BURAYI DEĞİŞTİRMEDİ=
 =git-cola=
